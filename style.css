@@ -22,3 +22,13 @@ section {
 .f-part img {
     width: 70%;
 }
+
+.hire {
+    text-decoration: none;
+    background-image: linear-gradient(yellow, orange);
+    color: black;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 5px;
+
+}
