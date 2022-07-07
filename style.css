@@ -38,3 +38,10 @@ section {
     background-image: url(pic/top-banner.png);
     background-repeat: no-repeat;
 }
+
+.my {
+    background-image: url(pic/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+
+}
