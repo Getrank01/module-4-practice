@@ -11,7 +11,7 @@ h1 {
     color: orange;
 }
 
-section {
+.container {
     display: flex;
 }
 
@@ -43,5 +43,12 @@ section {
     background-image: url(pic/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+    padding: 20px;
+
+}
+
+.pad {
+
+    text-align: left;
 
 }
